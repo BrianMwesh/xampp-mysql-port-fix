@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # XAMPP MySQL Port 3306 Error Fix
 
 ## Problem
@@ -100,3 +101,6 @@ tasklist | findstr PID_NUMBER
 After stopping the conflicting service or changing the port, MySQL should start successfully in XAMPP.
 
 
+=======
+# xampp-mysql-port-fix
+>>>>>>> 5c580593c240d957ec31be65cc61a2ef95c7ac03
